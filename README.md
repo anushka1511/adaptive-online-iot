@@ -61,8 +61,8 @@ Dataset characteristics:
 ```text
 adaptive-online-iot/
 │
-├── iotsim-air-quality-1.csv/(data)                  # Dataset and preprocessing scripts
-├── models/                # Online learning and drift-aware models
+├── iotsim-air-quality-1.csv(data)                 # Dataset and preprocessing scripts
+├── gotham_clids4.py(models)               # Online learning and drift-aware models
 ├── results/               # Output results and plots
 ├── README.md
 └── requirements.txt
