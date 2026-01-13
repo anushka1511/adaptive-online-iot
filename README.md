@@ -66,3 +66,13 @@ adaptive-online-iot/
 ├── results/               # Output results and plots
 ├── README.md
 └── requirements.txt
+```
+---
+
+## References
+- L. Yang et al., Towards Zero-Touch Networks, IEEE TCOM, 2025
+- Gotham IoT Testbed
+- CICIDS2017 Dataset
+- River: Online Machine Learning Library
+
+Although inspired by CICIDS2017 experiments, all evaluations in this repository are conducted on GothamDataset2025.
