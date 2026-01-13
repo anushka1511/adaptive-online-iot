@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+river==0.23.0
+imbalanced-learn
+tqdm
+jupyter
+ipykernel
